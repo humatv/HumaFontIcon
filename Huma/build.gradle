@@ -45,6 +45,6 @@ if (project.hasProperty('pushall') || project.hasProperty('Humaonly')) {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-    implementation "com.mikepenz:iconics-core:5.2.4"
+    implementation "com.mikepenz:iconics-core:4.0.2"
 
 }

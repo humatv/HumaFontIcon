@@ -1,2 +1,0 @@
-com/mikepenz/iconics/typeface/library/huma/BuildConfig.java
- com.mikepenz.iconics.typeface.library.huma.BuildConfig
