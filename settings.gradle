@@ -1,0 +1,3 @@
+include ':Huma'
+include ':app'
+rootProject.name = "HumaFontIcon"
